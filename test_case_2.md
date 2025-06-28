@@ -3,8 +3,10 @@
 
 # Safe spots detected
 
-![landing_zones_output](https://github.com/user-attachments/assets/594ec5e5-6298-44ff-92fd-bc32f07a6f38)
+![landing_zones_output](https://github.com/user-attachments/assets/de16257a-b55f-4afd-982f-40c09b63f384)
+
+
 
 # Landing simulation 
 
-![landing_simulation_final](https://github.com/user-attachments/assets/f17a6a52-432d-437e-a283-ca6bd2e3034d)
+![landing_simulation_final](https://github.com/user-attachments/assets/67198f59-f97b-41fe-8235-26c1a4e3ebfd)
