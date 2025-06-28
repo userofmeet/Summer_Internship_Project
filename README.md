@@ -30,17 +30,11 @@ This project performs automated detection of safe landing zones for drones using
 ```
 
 ## ⚙️ Requirements
-Python 3.7 or above
-
-OpenCV
-
-NumPy
+- Python 3.7 or above
+- OpenCV
+- NumPy
 
 Install dependencies:
-
-bash
-Copy
-Edit
 ```text
 pip install opencv-python numpy
 ```
